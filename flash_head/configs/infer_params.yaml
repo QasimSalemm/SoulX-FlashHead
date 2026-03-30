@@ -7,4 +7,4 @@ color_correction_strength: 1.0
 cached_audio_duration: 8
 num_heads: 12
 height: 512
-width: 228
+width: 256
